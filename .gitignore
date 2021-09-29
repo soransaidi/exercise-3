@@ -1,1 +1,4 @@
-# Excerice 3
+*
+!*.c
+!*.md
+!*.sh
